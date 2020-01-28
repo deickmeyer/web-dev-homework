@@ -1,0 +1,4 @@
+Data travesl through packets. These packets will travel until they have reach their destination. 
+IP Adress: is the identity of a computer DNS: an internet phone book, they are then translated to the IP Adress. 
+Cookie: a file from a website thst is visted, it is stored on the user'e computer.
+URL: Protocol, Domain Name, the Path. 
